@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+    <title class="Home">
+       
+    </title>
+</head>
+<html></html>
+<body>
+    <h1>Media Online</h1>
+    <h3>Sosial Media Developer</h3>
+    <p>Belajar dan berbagi agar hidup menjadi lebih baik</p>
+    <h4>Benefit Join di Media Online</h4>
+    
+    <ol>
+        <li>Mendapatkan motivasi dari sesama para Developer</li>
+        <li>Sharing knowlenge</li>
+        <li>Dibuat oleh calon web developer terbaik</li>
+    </ol>
+    <h4>Cara Bergabung ke media Online</h4>
+
+    <ul>
+        <li>Mengunjungi Website ini</li>
+        <li>Mendaftarkan di <a href="/form">Form Sign Up</a></li>
+        <li>Selesai</li>
+    </ul>
+</body>
+</html>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html>
     <head></head>
     <body>
@@ -9,4 +9,4 @@
 
         </video>
     </body>
-</html>
+</html> --}}

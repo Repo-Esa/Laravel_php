@@ -1,7 +1,9 @@
-
 @extends('template.master')
-@section('content-title', 'Check')
-@section('title', 'Movies')
 
-{{-- @section('form', 'Movies')
-@section('title', 'Movies') --}}
+@section('title',)
+Choose your favorite  films
+@endsection
+@section('link')
+Beranda
+@endsection
+
